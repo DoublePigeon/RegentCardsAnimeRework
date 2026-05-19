@@ -6,4 +6,4 @@
 
 下载后，解压出 ```RegentCardsAnimeRework``` 文件夹，并放在你的杀戮尖塔2根目录下的 ```mods``` 文件夹里，如果没有这个文件夹，就创建一个
 
-如果你从来没有安装过mod，那么需要注意游戏的存档是按照装了和没装模组分开的，如果你想保留原来的存档，就需要到 ```C:\Users\你的用户名\AppData\Roaming\SlayTheSpire2\steam\你的steamID``` 这个文件夹，将里面的 ```profile1,2和3``` 复制一份到modded文件夹里。如果你看不到AppData文件夹，那就在文件管理器的查看里勾选隐藏的项目
+如果你从来没有安装过mod，那么需要注意游戏的存档是按照装了和没装模组分开的，如果你想保留原来的存档，就需要到 ```C:\Users\你的用户名\AppData\Roaming\SlayTheSpire2\steam\你的steamID``` (如果你开启了Steam云，那么就应该是steam安装位置\userdata\你的steam好友代码\2868840\remote\modded) 这个文件夹，将里面的 ```profile1,2和3``` 复制一份到modded文件夹里。如果你看不到AppData文件夹，那就在文件管理器的查看里勾选隐藏的项目
